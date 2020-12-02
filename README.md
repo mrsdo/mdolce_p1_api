@@ -47,7 +47,7 @@ This is a project portfolio for students attending Flatiron School
 -[ ] Use good OO design patterns. You should be creating a collection of objects, not hashes, to store your data. *Pro Tip: Avoid scraping data more than once per web page - utilize objects you have already created. It will speed up your program!*
 
 ## <a id="requirements">Flatiron School Project Requirements</a>
-* [Open Requirements.md](REQUIREMENTS.MD)
+* [Open Requirements.md](REQUIREMENTS.md)
 
 ## Development
 
