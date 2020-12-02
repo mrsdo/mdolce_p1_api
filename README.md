@@ -1,4 +1,4 @@
-# MdolceP1Api
+# Phase 1 Project Portfolio: Ruby API + Cli
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mdolce_p1_api`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -20,9 +20,13 @@ Or install it yourself as:
 
     $ gem install mdolce_p1_api
 
-## Usage
+## Usage Requirements
 
-TODO: Write usage instructions here
+This is a project portfolio for students attending Flatiron School
+
+## Project Requirements
+
+[Expectations](REQUIREMENTS.md)
 
 ## Development
 
@@ -32,7 +36,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/mdolce_p1_api.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mrsdo/mdolce_p1_api.
 
 
 ## License
