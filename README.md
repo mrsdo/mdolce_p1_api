@@ -1,8 +1,14 @@
 # Phase 1 Project Portfolio: Ruby API + Cli
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mdolce_p1_api`. To experiment with that code, run `bin/console` for an interactive prompt.
+This gem was generated using
+```ruby
+bundle gem [gemname]
+```
 
-TODO: Delete this and the text above, and describe your gem
+All files are generated, however you will to make edits to the gemspec file before running the setup. 
+Course code for  Ruby is in the `lib/`. 
+To experiment with that code, run `bin/console` for an interactive prompt.
+
 
 ## Installation
 
